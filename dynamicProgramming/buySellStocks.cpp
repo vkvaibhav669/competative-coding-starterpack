@@ -19,6 +19,8 @@ mini = min(mini,arr[i]);
 //sell at ith day 
 //buy fro 1st to i-1th day  
 
+cout<<profit;
+
 return 0;
 
 }
